@@ -1,0 +1,11 @@
+.carousel-inner {
+    max-height: 39rem;
+}
+
+.img {
+    border-radius: 10px;
+}
+
+.container-fluid {
+    text-align: center;
+}
